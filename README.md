@@ -1,4 +1,4 @@
-<h1 align="center">FullCycle Desafio Nginx com Node.js</h1>
+<h1 align="center">FullCycle Challenge Nginx with Node.js</h1>
 
 <p align="center">This is the second challenge of the Docker course.</p>
 
